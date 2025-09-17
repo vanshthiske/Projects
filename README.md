@@ -1,6 +1,6 @@
 # 🤖 Artificial Intelligence Projects Portfolio  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/vanshthiske/yourrepo?color=blue)  
+![GitHub repo size](https://img.shields.io/github/repo-size/vanshthiske/Projectso?color=blue)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?color=green)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-orange)  
