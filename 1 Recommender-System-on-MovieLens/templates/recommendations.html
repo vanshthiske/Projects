@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Recommendations - Movie Recommender{% endblock %}
+
+{% block content %}
+<div class="results-header">
+    <div class="results-container">
+        <h1 class="results-title">
+            <i class="fas fa-film"></i>
+            Movies Similar to "{{ movie_title }}"
+        </h1>
+        <p class="results-subtitle">
+            Based on content analysis, here are {{ recommendations|length }} movies you might enjoy
+        </p>
+        
+        <a href="/" class="back-btn">
+            <i class="fas fa-arrow-left"></i>
+            Search Another Movie
+        </a>
+    </div>
+</div>
+
+<div class="recommendations-section">
+    <div class="recommendations-container">
+        <div class="recommendations-grid">
+            {% for movie in recommendations %}
+            <div class="movie-card" data-similarity="{{ movie.similarity_score }}">
+                <div class="movie-content">
+                    <div class="movie-header">
+                        <h3 class="movie-title">{{ movie.title }}</h3>
+                        <div class="similarity-badge">
+                            <i class="fas fa-percentage"></i>
+                            {{ movie.similarity_score }}% Match
+                        </div>
+                    </div>
+                    
+                    <div class="movie-genres">
+                        <i class="fas fa-tags"></i>
+                        <span>{{ movie.genres }}</span>
+                    </div>
+                    
+                    <div class="movie-footer">
+                        <div class="movie-id">
+                            <i class="fas fa-hashtag"></i>
+                            ID: {{ movie.movieId }}
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="movie-hover-effect"></div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}
