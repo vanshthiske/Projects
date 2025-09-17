@@ -1,10 +1,4 @@
-# 🤖 Artificial Intelligence Projects Portfolio  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/vanshthiske/Projectso?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?color=green)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-orange)  
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Projects-red)  
+# 🤖 Artificial Intelligence Projects Portfolio   
 
 🚀 This repository contains multiple end-to-end **Artificial Intelligence projects**,  
 including applications in **Computer Vision, Natural Language Processing, and Generative AI**.  
@@ -13,19 +7,6 @@ Each project is designed with a focus on:
 ✔ **Real-world applications**  
 ✔ **Cutting-edge AI techniques**  
 ✔ **Clean & reproducible code**  
-
----
-
-## 📂 Repository Structure  
-├── Project-1/ # AI-Powered Video Analysis
-├── Project-2/ # Web Scraping + AI Model
-├── Project-3/ # Document Summarization AI
-├── Project-4/ # License Plate Recognition (LPR)
-├── Project-5/ # Generative AI Application
-└── README.md # Main Portfolio Overview
-
-
-
 
 ---
 
