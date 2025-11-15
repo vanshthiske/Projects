@@ -1,69 +1,81 @@
-# 🚀 Welcome to my **Data Science Portfolio Repository**!  
+# 🚀 Welcome to my **Data Science Portfolio Repository**!
 
-This repo contains multiple end-to-end **Data Science Projects**, showcasing my skils in *Data preprocessing, Exploratory Data Analysis(EDA), Feature Engineering, Model Building, Evaluation, and Visualization*.  
+This repo contains multiple end-to-end **Data Science Projects**, showcasing my skills in *Data preprocessing, Exploratory Data Analysis(EDA), Feature Engineering, Model Building, Evaluation, and Visualization*.
 
-Each project is built with a focus on **practical implementation, real-world use cases, and clean reproducible code**.  
-
----
-
-## 🚀 Projects Overview  
-
-### 🔹 [Project 1: AI-Powered Video Analysis](./Project-1)  
-🎥 Detect & track vehicles in videos using **YOLO + Deep Learning**  
-✔ Vehicle Counting | ✔ Tracking | ✔ License Plate Extraction  
-**Tech:** `PyTorch` · `YOLOv8` · `OpenCV`  
+Each project is built with a focus on **practical implementation, real-world use cases, and clean reproducible code**.
 
 ---
 
-### 🔹 [Project 2: Web Scraping + AI Model](./Project-2)  
-🌐 Scrapes **news, reviews, research papers, job listings**  
-📰 Summarization | 🙂 Sentiment Analysis | 📊 Classification  
-**Tech:** `Python` · `BeautifulSoup` · `Scrapy` · `LangChain`  
+## 🚀 Projects Overview
+
+### 🔷 [Project 1: Content-Based Movie Recommender System](./1%20Recommender-System-on-MovieLens)
+
+🎬 **AI-Powered Movie Recommendations** using TF-IDF vectorization and K-Nearest Neighbors
+✅ **Built with FastAPI** for production-ready REST API
+🎨 **Modern, responsive UI** with smooth animations and real-time search
+📱 **Mobile-friendly** design that works across all devices
+
+**Tech:** Python · Scikit-learn · FastAPI · Pandas · NumPy · HTML/CSS/JavaScript
 
 ---
 
-### 🔹 [Project 3: Document Summarization AI](./Project-3)  
-📑 Upload **PDF, DOCX, or Images** → Get **AI Summaries**  
-⚡ Works with both **custom NLP models** & **LLMs (Gemini, LangChain)**  
-**Tech:** `TensorFlow` · `Hugging Face` · `LangChain`  
+### 🔷 [Project 2: Historical Data Analysis](./2%20Historical%20Data%20Analysis)
+
+📊 **Comprehensive EDA** on historical datasets
+🔍 **Deep dive into patterns, trends, and insights** from real-world data
+📈 **Statistical analysis and visualization** using industry-standard tools
+📉 **Time series analysis** and correlation studies
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
 
-### 🔹 [Project 4: License Plate Recognition (LPR)](./Project-4)  
-🚗 Detects **license plates** + OCR for **character recognition**  
-📷 Evaluated on **character recognition accuracy**  
-**Tech:** `TensorFlow` · `YOLO` · `Faster R-CNN` · `Tesseract`  
+### 🔷 [Project 3: Coffee Dataset Clustering Analysis](./3%20Coffee%20daaset%20Clustring)
+
+☕ **Unsupervised learning** on coffee health data
+🎯 **K-Means clustering** to identify customer segments
+📊 **Feature engineering** and data preprocessing for optimal clustering
+🔬 **Exploratory analysis** with detailed visualizations
+
+**Tech:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn
 
 ---
 
-### 🔹 [Project 5: AI-Powered Task Management System](./Project-5)  
-✅ Smart task manager that **classifies, prioritizes, and assigns tasks**  
-🧠 Uses **ML + NLP** to understand task descriptions  
-**Tech:** `Scikit-learn` · `NLP` · `Streamlit`  
+### 🔷 [Project 4: Telecom Customer Churn Prediction](./4%20Telecom%20Customer%20Churn%20Prediction)
+
+📞 **Predictive modeling** to identify customers likely to churn
+🤖 **Machine learning classification** with multiple algorithms
+📊 **Feature importance analysis** and model evaluation
+🎯 **Business-focused insights** for customer retention strategies
+
+**Tech:** Python · Scikit-learn · Pandas · Flask · Pickle
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python 🐍  
-**Libraries:** Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch  
-**Visualization:** Matplotlib · Seaborn · Plotly  
-**Frameworks:** LangChain · Streamlit · Flask  
-**Other Tools:** OpenCV · BeautifulSoup · Scrapy  
+## 🛠 Tech Stack
+
+**Languages:** Python 🐍
+**Libraries:** Pandas · NumPy · Scikit-Learn · TensorFlow · PyTorch
+**Visualization:** Matplotlib · Seaborn · Plotly
+**Frameworks:** FastAPI · Flask · Streamlit
+**Other Tools:** Jupyter Notebook · Git · VS Code
 
 ---
 
-## 📘 Learning Outcomes  
-✔ Hands-on with **ML, NLP, Computer Vision, Generative AI**  
-✔ Built **end-to-end data pipelines & AI apps**  
-✔ Experience with **structured + unstructured data**  
-✔ Deployment of **AI models & dashboards**  
+## 📚 Learning Outcomes
+
+✔ Hands-on with **ML, NLP, Computer Vision, Clustering, Recommendation Systems**
+✔ Built **end-to-end data pipelines & AI apps**
+✔ Experience with **structured + unstructured data**
+✔ Deployment of **AI models & interactive dashboards**
 
 ---
 
-## 👨‍💻 Author  
-**Vansh Vijay Thiske**  
-🔗 [GitHub](https://github.com/yourusername) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+## 👨‍💻 Author
+
+**Vansh Vijay Thiske**
+🔗 [GitHub](https://github.com/vanshthiske) | 💼 [LinkedIn](https://linkedin.com/in/vansh-thiske)
 
 ---
 
-✨ *This repository is a showcase of my journey in **AI & Data Science**, blending theory with practical implementation.*  
+✨ *This repository is a showcase of my journey in **AI & Data Science**, blending theory with practical implementation.*
